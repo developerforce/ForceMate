@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleUUID</key>
+	<string>D0ACF90F-D30A-4D1C-8D7A-FFF383CB5D4C</string>
+	<key>content</key>
+	<string>&lt;apex:page standardStylesheets="true" showHeader="true" sidebar="true" controller="$1" title="$2" &gt;
+
+$0
+
+&lt;/apex:page&gt;
+ </string>
+	<key>name</key>
+	<string>pagec</string>
+	<key>tabTrigger</key>
+	<string>pagec</string>
+	<key>uuid</key>
+	<string>9D237475-D4A5-4DD5-B070-C9E23E700982</string>
+</dict>
+</plist>
